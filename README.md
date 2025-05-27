@@ -15,26 +15,39 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 ## Local stability animations for LunarLander (hovering objective)
 ### Case 1
-<p align="center">
-  <img src="assets/video-case-1.gif" width="300"/>
-  <img src="assets/animation-case-1.gif" width="600"/>
-</p>
+
+<table>
+<tr>
+  <td><img src="assets/video-case-1.gif" width="300"/></td>
+  <td><img src="assets/animation-case-1.gif" width="600"/></td>
+</tr>
+</table>
 
 ### Case 2
-<p align="center">
-  <img src="assets/video-case-2.gif" width="300"/>
-  <img src="assets/animation-case-2.gif" width="600"/>
-</p>
+
+<table>
+<tr>
+  <td><img src="assets/video-case-2.gif" width="300"/></td>
+  <td><img src="assets/animation-case-2.gif" width="600"/></td>
+</tr>
+</table>
 
 ### Case 3
-<p align="center">
-  <img src="assets/video-case-3.gif" width="300"/>
-  <img src="assets/animation-case-3.gif" width="600"/>
-</p>
+
+<table>
+<tr>
+  <td><img src="assets/video-case-3.gif" width="300"/></td>
+  <td><img src="assets/animation-case-3.gif" width="600"/></td>
+</tr>
+</table>
 
 ### Case 4
-<p align="center">
-  <img src="assets/video-case-4.gif" width="300"/>
-  <img src="assets/animation-case-4.gif" width="600"/>
-</p>
+
+<table>
+<tr>
+  <td><img src="assets/video-case-4.gif" width="300"/></td>
+  <td><img src="assets/animation-case-4.gif" width="600"/></td>
+</tr>
+</table>
+
 

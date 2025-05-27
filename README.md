@@ -10,5 +10,19 @@
 ```
 
 ## Overview
-SALSA-RL is a reinforcement learning framework that non-invasively analyzes local stability in the latent action space. By modeling actions as time-varying linear dynamics, it applies control-theoretic tools—such as spectral radius, transient growth, and Floquet analysis—for fine-grained stability diagnostics. SALSA-RL enables interpretation of pretrained agents, early detection of control failures, and improved safety—all without modifying the policy or training process, and with no loss in performance.
+SALSA-RL is a reinforcement learning framework that non-invasively analyzes local stability in the latent action space. By modeling actions as time-varying linear dynamics, it applies control-theoretic tools, such as spectral radius, transient growth, and Floquet analysis, for stability analysis. SALSA-RL enables interpretation of pretrained agents, early warning of control failures, and insight into policy behavior without modifying the policy or training process, and with no loss in performance.
+
+
+## Local stability animations for LunarLander (hovering objective)
+### Case 1
+![Case 1](assets/animation-case-1.gif)
+
+### Case 2
+![Case 2](assets/animation-case-2.gif)
+
+### Case 3
+![Case 3](assets/animation-case-3.gif)
+
+### Case 4
+![Case 4](assets/animation-case-4.gif)
 

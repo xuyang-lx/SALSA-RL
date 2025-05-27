@@ -18,8 +18,8 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 <table>
 <tr>
-  <td><img src="assets/video-case-1.gif" width="300"/></td>
-  <td><img src="assets/animation-case-1.gif" width="600"/></td>
+  <td><img src="assets/video-case-1.gif" width="200"/></td>
+  <td><img src="assets/animation-case-1.gif" width="400"/></td>
 </tr>
 </table>
 

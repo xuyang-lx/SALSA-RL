@@ -14,12 +14,16 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 
 ## Local stability animations for LunarLander (hovering objective)
+
+White line: spectral radius = 1
+Red line: agent trajectory
+
 ### Case 1
 
 <table>
 <tr>
-  <td><img src="assets/video-case-1.gif" width="200"/></td>
-  <td><img src="assets/animation-case-1.gif" width="400"/></td>
+  <td><img src="assets/video-case-1.gif" width="250"/></td>
+  <td><img src="assets/animation-case-1.gif" width="500"/></td>
 </tr>
 </table>
 
@@ -27,8 +31,8 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 <table>
 <tr>
-  <td><img src="assets/video-case-2.gif" width="300"/></td>
-  <td><img src="assets/animation-case-2.gif" width="600"/></td>
+  <td><img src="assets/video-case-2.gif" width="250"/></td>
+  <td><img src="assets/animation-case-2.gif" width="500"/></td>
 </tr>
 </table>
 
@@ -36,8 +40,8 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 <table>
 <tr>
-  <td><img src="assets/video-case-3.gif" width="300"/></td>
-  <td><img src="assets/animation-case-3.gif" width="600"/></td>
+  <td><img src="assets/video-case-3.gif" width="250"/></td>
+  <td><img src="assets/animation-case-3.gif" width="500"/></td>
 </tr>
 </table>
 
@@ -45,8 +49,8 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 <table>
 <tr>
-  <td><img src="assets/video-case-4.gif" width="300"/></td>
-  <td><img src="assets/animation-case-4.gif" width="600"/></td>
+  <td><img src="assets/video-case-4.gif" width="250"/></td>
+  <td><img src="assets/animation-case-4.gif" width="500"/></td>
 </tr>
 </table>
 

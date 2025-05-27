@@ -15,13 +15,8 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 ## Local stability animations for LunarLander (hovering objective)
 ### Case 1
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <video width="33%" controls>
-    <source src="assets/video-case-1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <img src="assets/animation-case-1.gif" style="width: 66%;">
-</div>
+<video src="assets/video-case-1.mp4" width="100%" controls></video>
+<img src="assets/animation-case-1.gif" width="600"/>
 
 ### Case 2
 <div style="display: flex; align-items: center; gap: 1rem;">

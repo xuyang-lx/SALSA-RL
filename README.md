@@ -19,8 +19,7 @@ White line: spectral radius = 1
 
 Red line: agent trajectory
 
-### Case 1
-
+### Case 1: Nominal start (successful control)
 <table>
 <tr>
   <td><img src="assets/video-case-1.gif" width="250"/></td>
@@ -28,8 +27,7 @@ Red line: agent trajectory
 </tr>
 </table>
 
-### Case 2
-
+### Case 2: Offset start (control failure)
 <table>
 <tr>
   <td><img src="assets/video-case-2.gif" width="250"/></td>
@@ -37,8 +35,7 @@ Red line: agent trajectory
 </tr>
 </table>
 
-### Case 3
-
+### Case 3: Offset start (stable recovery)
 <table>
 <tr>
   <td><img src="assets/video-case-3.gif" width="250"/></td>
@@ -46,8 +43,7 @@ Red line: agent trajectory
 </tr>
 </table>
 
-### Case 4
-
+### Case 4: Offset start (delayed recovery)
 <table>
 <tr>
   <td><img src="assets/video-case-4.gif" width="250"/></td>

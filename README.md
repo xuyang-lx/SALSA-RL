@@ -16,6 +16,7 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 ## Local stability animations for LunarLander (hovering objective)
 
 White line: spectral radius = 1
+
 Red line: agent trajectory
 
 ### Case 1

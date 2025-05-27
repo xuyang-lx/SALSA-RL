@@ -15,14 +15,38 @@ SALSA-RL is a reinforcement learning framework that non-invasively analyzes loca
 
 ## Local stability animations for LunarLander (hovering objective)
 ### Case 1
-![Case 1](assets/animation-case-1.gif)
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <video width="33%" controls>
+    <source src="assets/video-case-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img src="assets/animation-case-1.gif" style="width: 66%;">
+</div>
 
 ### Case 2
-![Case 2](assets/animation-case-2.gif)
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <video width="33%" controls>
+    <source src="assets/video-case-2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img src="assets/animation-case-2.gif" style="width: 66%;">
+</div>
 
 ### Case 3
-![Case 3](assets/animation-case-3.gif)
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <video width="33%" controls>
+    <source src="assets/video-case-3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img src="assets/animation-case-3.gif" style="width: 66%;">
+</div>
 
 ### Case 4
-![Case 4](assets/animation-case-4.gif)
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <video width="33%" controls>
+    <source src="assets/video-case-4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img src="assets/animation-case-4.gif" style="width: 66%;">
+</div>
 
